@@ -1,14 +1,18 @@
-### Hi there 👋
+### Hello everyone!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+My name is João Pedro Reis and I'm an aspiring Front End developer. I have a bachelor's degree in Information Systems. I'm from Brazil, and I'm currently looking for job opportunities!
 
 - 🔭 I’m currently working on: Improving my Front End skills!
 - 🌱 I’m currently learning: VueJs
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
+  - [My LinkedIn profile](https://www.linkedin.com/in/joaoreoli/)
+  - [My email: joao.reoli@gmail.com](mailto:joao.reoli@gmail.com) 
+  - [My Whatsapp: (+55)19-97145-8868](tel:5519971458868)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jojoreoli&hide=C%23&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Jojoreoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jojoreoli&hide=prs,issues&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
 
-## I have knowledge in 
+## 💻 Technologies, languages and tools
 
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Language-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
@@ -19,4 +23,4 @@
 ![](https://img.shields.io/badge/Tool-Sass-informational?style=flat&logo=Sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Atom-informational?style=flat&logo=Atom&logoColor=white&color=2bbc8a)
 
-[![Jojoreoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jojoreoli&hide=prs,issues&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jojoreoli&hide=C%23&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
