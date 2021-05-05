@@ -6,4 +6,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
-[![Jojoreoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jojoreoli)](https://github.com/Jojoreoli/github-readme-stats)
+[![Jojoreoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jojoreoli&hide=stars,prs,issues,contribs)](https://github.com/Jojoreoli/github-readme-stats)
