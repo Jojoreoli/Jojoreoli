@@ -1,7 +1,6 @@
 ### Hello everyone! 👋
 
-My name is João Pedro Reis and I'm an aspiring Front End developer. I have a bachelor's degree in Information Systems. I'm from Brazil, and I'm currently looking for job opportunities!
-
+My name is João Pedro Reis and I'm an aspiring Front End developer. I have a bachelor's degree in Information Systems. I'm from Brazil!
 - 🔭 I’m currently working on: Improving my Front End skills!
 - 🌱 I’m currently learning: VueJs
 - 📫 How to reach me: 
