@@ -1,15 +1,15 @@
 ### Hello everyone! 👋
 
 My name is João Pedro Reis and I'm an aspiring Front End developer. I have a bachelor's degree in Information Systems. I'm from Brazil!
-- 🔭 I’m currently working on: Improving my Front End skills!
-- 🌱 I’m currently learning: VueJs
+- 🔭 I’m currently working on: An awesome project, soon to be released!
+- 🌱 I’m currently learning: React
 - 📫 How to reach me: 
   - [My LinkedIn profile](https://www.linkedin.com/in/joaoreoli/)
   - [My email: joao.reoli@gmail.com](mailto:joao.reoli@gmail.com) 
   - [My Whatsapp: (+55)19-97145-8868](tel:5519971458868)
 - 😄 Pronouns: He/Him
 
-[![Jojoreoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jojoreoli&hide=prs,issues&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 ## 💻 Technologies, languages and tools
 
